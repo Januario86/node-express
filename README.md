@@ -3,7 +3,7 @@
 
 
 - [Node.js](https://nodejs.org/en/)
-- [VSCode ou qq outra IDE que preferir] (https://code.visualstudio.com/)
+- [VSCode ou qq outra IDE que preferir](https://code.visualstudio.com/)
 
 ## Clonar o Projeto
 
