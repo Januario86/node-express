@@ -1,3 +1,6 @@
+## Node - Express
+
+> Exemplo de API em node.js usando framework Express.js
 
 ## Tecnologias utilizadas no projeto
 
